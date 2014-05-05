@@ -13,7 +13,7 @@ CONFIG += static
 QT       += core gui
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = RiftUp!Patcher
+TARGET = HMD-SDK-Opener
 TEMPLATE = app
 
 
