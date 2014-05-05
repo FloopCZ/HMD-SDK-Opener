@@ -102,11 +102,10 @@ void MainWindow::patchClicked()
     BACKUP_EXTENSION
   );
 
-  // %%% REMOVE OLD BACKUP FILE %%%
+  // %%% CREATE A NEW BACKUP FILE %%%
   if (backupFile.exists()) {
       logw(tr("WARNING: Backup file exists. Skipping backup."));
   } else if (!QFile::copy(file.fileName(), backupFile.fileName())) {
-    // %%% CREATE A NEW BACKUP FILE %%%
     loge(tr("ERROR: Directory is not writable. "
             "Please rerun the application as an administrator."));
     return;
