@@ -7,7 +7,7 @@ BUILD HOWTO
 -----------
 Note: If you are running Windows, you might want to download the binary
 file with static linkage instead.
-[a relative link](bin/RiftUp!Patcher.exe)
+[RiftUp!Patcher.exe](https://github.com/FloopCZ/RiftUpPatcher/raw/master/bin/RiftUp!Patcher.exe)
 
 Open the .pro file in the Qt Creator and build the app.
 If your prefer building the app manually, run these commands:
