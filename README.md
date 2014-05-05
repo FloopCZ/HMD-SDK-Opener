@@ -1,13 +1,13 @@
-RiftUpPatcher
-=============
+HMD SDK Opener
+==============
 
-Patcher for oculus .dll files that adds support of RiftUp! upgrade kit.
+Patcher for oculus .dll files that adds support of the RiftUp! upgrade kit.
 
 BUILD HOWTO
 -----------
 Note: If you are running Windows, you might want to download the binary
 file with static linkage instead.
-[RiftUp!Patcher.exe](https://github.com/FloopCZ/RiftUpPatcher/raw/master/bin/RiftUp!Patcher.exe)
+[HMDSDKOpener](https://github.com/FloopCZ/HMDSDKOpener/raw/master/bin/HMDSDKOpener-win32-qt-static.exe)
 
 Open the .pro file in the Qt Creator and build the app.
 If your prefer building the app manually, run these commands:
