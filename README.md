@@ -11,10 +11,11 @@ file with static linkage instead.
 
 Open the .pro file in the Qt Creator and build the app.
 If your prefer building the app manually, run these commands:
-> qmake
-> make (or nmake)
 
-RUN HOWTO
+    qmake
+    make
+
+USAGE HOWTO
 ---------
 
 1. Start the application
