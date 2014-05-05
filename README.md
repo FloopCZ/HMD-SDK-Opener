@@ -7,7 +7,7 @@ BUILD HOWTO
 -----------
 Note: If you are running Windows, you might want to download the binary
 file with static linkage instead.
-[HMDSDKOpener.exe](https://github.com/FloopCZ/HMDSDKOpener/raw/master/bin/HMD-SDK-Opener-win32-qt-static.exe)
+[HMD-SDK-Opener.exe](https://github.com/FloopCZ/HMD-SDK-Opener/raw/master/bin/HMD-SDK-Opener-win32-qt-static.exe)
 
 Open the .pro file in the Qt Creator and build the app.
 If your prefer building the app manually, run these commands:
