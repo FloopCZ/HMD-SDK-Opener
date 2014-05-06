@@ -16,13 +16,17 @@ If your prefer building the app manually, run these commands:
     make
 
 USAGE HOWTO
----------
+-----------
+Build or [download](https://github.com/FloopCZ/HMD-SDK-Opener/raw/master/bin/HMD-SDK-Opener-win32-qt-static.exe) the application.
 
 1. Start the application
 2. Click "Choose File" and find the .dll file of the Oculus library (usually named OculusPlugin.dll)
 3. Click "Patch File"
 
+CONTACT
+-------
+In case of problems or feature requests, please contact me at riftup SNAIL floop.cz.
+
 DISCLAIMER
 ----------
-
 I am not a developer of the RiftUp! project. Use the software at your own risk!
