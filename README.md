@@ -21,7 +21,7 @@ Build or [download](https://github.com/FloopCZ/HMD-SDK-Opener/raw/master/bin/HMD
 
 1. Start the application
 2. Click "Choose File" and find the .dll file of the Oculus library (usually named OculusPlugin.dll)
-3. Click "Patch File"
+3. Click "Patch File". A backup will be created automatically.
 
 CONTACT
 -------
