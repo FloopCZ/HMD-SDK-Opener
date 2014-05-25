@@ -30,6 +30,7 @@ By user rozsnyo on http://www.mtbs3d.com/
 The unit will present itself with RZS0002 (default) or OVR0002 (Oculus HD prototype) EDID VID and PID. To switch between these, the following combinations are used:
 
 [1+3+4] PWR + BRDN + CNUP = switch to RZS0002 (magenta)
+
 [1+3+5] PWR + BRDN + CNDN = switch to OVR0002 (cyan)
 
 After transition to different EDID VID/PID, you have to unplug the signal cable from the unit or PC, wait few seconds and replug it.
